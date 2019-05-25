@@ -25,6 +25,8 @@ public:
     QPushButton *button_zero;
     QLabel *label;
 
+    // styles
+
 private slots:
     void push_button_increment_on_click();
     void push_button_zero_on_click();
